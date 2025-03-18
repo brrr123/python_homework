@@ -21,7 +21,7 @@ def calc (a,b, operation="multiply"):
             case "modulo":
                 return a%b
             case "int_divide":
-                return int(a)/int(b)
+                return a//b
             case "power":
                 return a**b
 
