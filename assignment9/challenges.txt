@@ -1,0 +1,2 @@
+I'm used to scrapping with BeautifulSoup or similar libraries. Selenium was a bit hard to get going and to debug
+because it's using driver objects and it's a bit slow to start Chrome headless, making debugging a bit slower
