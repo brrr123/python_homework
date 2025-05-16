@@ -1,0 +1,12 @@
+Which sections of the website are restricted for crawling?
+    Dynamic generated pages and sensitive operational pages like deletion, requests, etc.
+Are there specific rules for certain user agents?
+    Yes, there are a number of specific user agents that are blocked, with some specific descriptions for some of them.
+
+
+Purpose of robots.txt
+
+    Is used to reduce the load on the server, for example restricting visits to pages that take a lot of resources to
+    generate content and prevent crawlers from causing unintended consequences by visiting pages which cause actions
+    like delete or edit of contents. Website authors might only allow real people to use their site and don't want
+    automated bots visiting their site.
